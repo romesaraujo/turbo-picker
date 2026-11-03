@@ -1,2 +1,2 @@
 # turbo-picker
-Plataforma de Sorteio de números e nomes
+Plataforma de Sorteio de números e nomes online
